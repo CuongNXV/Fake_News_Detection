@@ -1,1 +1,4 @@
 pre-train-model/GoogleNews-vectors-negative300.bin
+data/full_data.txt
+data/full_data_word2vec.txt
+data/full_data_label.txt
